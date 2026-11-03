@@ -222,6 +222,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 ## Photo, Metadata, and Media Privacy
 
+- [Digital Vault PRO](https://vault-pro.rashid-salimov96.workers.dev/en/) - In-browser media and developer utility suite (image compression, EXIF cleaner, PDF merge/split) where all files are processed locally via WebAssembly and never leave the tab.
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
